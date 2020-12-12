@@ -1,0 +1,49 @@
+.homepageanimation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.homepage__title{
+    display: flex;
+    align-items: center;
+}
+
+.linktag{
+    text-decoration: none;
+    color: #5367ff;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.title{
+    font-size: 50px;
+    letter-spacing: .6px;
+    margin-bottom: 17px;
+    margin-top: 0px;
+    margin-right: 10px;
+
+}
+
+.listarray{
+    font-size: 50px;
+    letter-spacing: .6px;
+    margin-bottom: 17px;
+    margin-top: 0px;
+    color: #00d09c;
+}
+
+.desc{
+    font-size: 22px;
+    letter-spacing: .2px;
+    color: #1a1a1a !important;
+    line-height: 40px;
+    margin-bottom: 20px;
+    
+}
+
+/* .homepage__description{
+    margin: 150px;
+} */
+

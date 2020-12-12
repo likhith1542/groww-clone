@@ -1,0 +1,28 @@
+.mainbar__buttons{
+    margin-left: 90px;
+}
+
+.mainbar__button{
+    text-transform: capitalize !important;
+    font-size: 16px !important;
+    letter-spacing: .3px !important;
+    color: #44475b !important;
+    margin-top: 5px !important;
+}
+
+.mainbar__button:hover{
+    background-color: white !important;
+    color: #00d09c !important;
+    border-bottom: 10px #00d09c !important;
+}
+
+.mainbar__button:focus{
+    border-bottom: 10px #00d09c !important;
+}
+
+.mainbar__line{
+    height: 1px;
+    opacity: 0.1;
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}

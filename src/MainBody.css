@@ -1,0 +1,7 @@
+.mainbody__body{
+    display: flex;
+    margin-left: 90px;
+    margin-right: 90px;
+    align-items: center;
+    justify-content: space-between;
+}

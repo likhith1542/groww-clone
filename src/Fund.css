@@ -1,0 +1,55 @@
+.funds{
+    width: 98vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.funds__heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.funds__title{
+    font-size: 36px;
+    color: #1a1a1a;
+    letter-spacing: .4px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.funds__linesegment{
+    width: 60px;
+    height: 5px;
+    border: 1px #1a1a1a;
+    background: #1a1a1a;
+}
+
+.fund__icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 75px;
+    width: 70%;
+}
+
+
+.fund__link{
+    text-decoration: none;
+    color: #5367ff;
+}
+
+.fund__linkdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arrow{
+    color: #5367ff !important;
+    margin-top: 5px !important;
+}

@@ -1,0 +1,52 @@
+.download{
+    width: 100%;
+    height: 370px;
+    background-color: #00d09c;
+}
+
+.download__inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 85px;
+}
+
+.download__h2{
+    color: white;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 1.3;
+    margin-top: 60px;
+    letter-spacing: .4px;
+    -webkit-font-smoothing:auto;
+    max-width:400px;
+}
+
+.download__h4{
+    font-size: 16px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: .2px;
+    font-weight: 300;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.download__icons{
+    display: flex;
+    width: 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.download__right{
+    margin-top: 35px;
+}
+
+

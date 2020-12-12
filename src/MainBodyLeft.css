@@ -1,0 +1,208 @@
+.mainbodyleft{
+    flex: .6;
+    padding: 10px;
+}
+
+.market__timing{
+    text-transform: uppercase;
+    color: #999;
+    padding: 10px;
+    font-weight: 500;
+    min-height: 36px;
+    font-size: 14px;
+}
+
+.market__index{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.marketindex__heading{
+    color: #000;
+    padding: 10px;
+    font-weight: 500;
+    min-height: 36px;
+    font-size: 21px;
+    letter-spacing: -.23px;
+}
+
+.market__allstocks{
+    color: #00d09c !important;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    letter-spacing: .37px !important;
+    background-color: #f4fdfa !important;
+    border-radius: 16px !important;
+}
+
+.marketindex__cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    padding-left: 0px !important;
+}
+
+.market__card{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
+    min-height: 40px;
+    padding: 14px 16px;
+    margin: 5px;
+    justify-content: space-between;
+}
+
+.market__name{
+    font-weight: 500;
+    line-height: 1.57;
+    letter-spacing: .19px;
+    min-width: 85px;
+    font-size: 14px;
+    color: #44475b;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+}
+
+.market__namesh{
+    font-weight: 500;
+    line-height: 1.57;
+    letter-spacing: .19px;
+    font-size: 13px;
+    color: #999;
+    text-transform: uppercase;
+}
+
+.market__value{
+    font-weight: 500;
+    line-height: 1.57;
+    letter-spacing: .19px;
+    min-width: 85px;
+    font-size: 14px;
+    color: #44475b;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+}
+
+.market__valuesh{
+    font-weight: 500;
+    line-height: 1.57;
+    letter-spacing: .19px;
+    font-size: 13px;
+    color: #999;
+    text-transform: uppercase;
+}
+
+.market__categories{
+    padding: 10px;
+    padding-left: 0px !important;
+    margin-top: 20px;
+}
+
+.stock__card{
+    display: flex;
+    margin-top: 20px;
+}
+
+.market__indexs{
+    margin-top:10px ;
+}
+
+.market__stocks{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.stocksector__cards{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.stocksector__card{
+    box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
+    min-height: auto;
+    width: auto;
+    position: relative;
+    transition: all .3s ease;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 4px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.stock__sector{
+    font-size: 14px;
+    font-weight: 450;
+    border-right: 1px solid #000;
+    padding-right:10px ;
+    margin-right: 10px;
+}
+
+.stock__number{
+    font-size: 14px;
+    font-weight: 450;
+    color: #00d09c;
+}
+
+.top__marketcap{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.top__table{
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 7px 7px 0 0;
+    box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
+    border-collapse: collapse;
+    margin-bottom: -2px;
+    display: table;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+.top__head{
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+    background:#f9fafa;
+}
+
+.table__row{
+    padding: 0 20px;
+    /* background:#fff; */
+    margin-bottom: 20px;
+    height: 55px;
+    border-bottom: 1px solid #fff;
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.table__item{
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.table__text{
+    color: #44475b;
+    letter-spacing: .23px;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 0 15px;
+    user-select: none;
+    text-align: left;
+}
