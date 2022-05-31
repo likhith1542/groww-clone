@@ -13,7 +13,7 @@
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
-    "react-slick": "^0.27.13",
+    "react-slick": "^0.29.0",
     "react-slick-vertical": "^0.11.1",
     "web-vitals": "^0.2.4"
   },
